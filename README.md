@@ -23,13 +23,14 @@ This is the repo for my Machine Learning Problem Set 2
 - README.md: instructions
 
 ## Installation
-- Clone the repository
-- Navigate to folder
-- 
+- Download the notebook
+- download the dataset from UK data service: Study Number 9002
+
 ## How to Run
 - Open Jupyter Notebook:
   jupyter notebook
 - Open ProblemSet2.ipynb
+- Ensure data is in the same directory
 - Run all cells from top to bottom
 
 ## Pipeline
